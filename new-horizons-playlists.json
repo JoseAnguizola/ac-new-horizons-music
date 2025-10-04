@@ -1,0 +1,2179 @@
+{
+    "playlists": [
+        {
+            "id": "new-horizons-buildings",
+            "name": "Building Themes",
+            "description": "Atmospheric music from the various buildings and facilities around your island\u2014from the peaceful Museum to the bustling Resident Services.",
+            "icon": "Building",
+            "iconBg": "#7ec8e3",
+            "iconColor": "#1a5f7a",
+            "songs": [
+                {
+                    "title": "Happy Home Network",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Happy%20Home%20Network.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum (Tent)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20%28Tent%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Aquarium, Room 1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Aquarium%2C%20Room%201.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Aquarium, Room 2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Aquarium%2C%20Room%202.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Aquarium, Room 3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Aquarium%2C%20Room%203.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Art Gallery",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Art%20Gallery.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Bug Exhibit, Room 1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Bug%20Exhibit%2C%20Room%201.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Bug Exhibit, Room 2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Bug%20Exhibit%2C%20Room%202.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Bug Exhibit, Room 3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Bug%20Exhibit%2C%20Room%203.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Entrance",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Entrance.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Fossil Gallery, Room 1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Fossil%20Gallery%2C%20Room%201.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Fossil Gallery, Room 2 (With Overview)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Fossil%20Gallery%2C%20Room%202%20%28With%20Overview%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Museum - Fossil Gallery, Room 3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Museum%20-%20Fossil%20Gallery%2C%20Room%203.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 7 - With Resident Services Building",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Prologue%2C%20Phase%207%20-%20With%20Resident%20Services%20Building.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 7 - With Resident Services Building - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Prologue%2C%20Phase%207%20-%20With%20Resident%20Services%20Building%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 7 - With Resident Services Building - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Prologue%2C%20Phase%207%20-%20With%20Resident%20Services%20Building%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Resident Services",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Resident%20Services.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Resident Services (Tent)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Resident%20Services%20%28Tent%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Room Sketch",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Room%20Sketch.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "The Roost",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/The%20Roost.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wedding Picture Studio (Reese and Cyrus's Theme)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Wedding%20Picture%20Studio%20%28Reese%20and%20Cyrus%27s%20Theme%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wedding Picture Studio - Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Wedding%20Picture%20Studio%20-%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wedding Picture Studio - Loop A",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Wedding%20Picture%20Studio%20-%20Loop%20A.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wedding Picture Studio - Loop B",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Wedding%20Picture%20Studio%20-%20Loop%20B.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wedding Picture Studio - Loop C",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/buildings/Wedding%20Picture%20Studio%20-%20Loop%20C.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-dodo-airlines",
+            "name": "Dodo Airlines",
+            "description": "Airport and flight-related music from Dodo Airlines\u2014capturing the excitement of island travel and visitor arrivals.",
+            "icon": "Plane",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "title": "Dodo Airlines (DAL Airport)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/dodo-airlines/Dodo%20Airlines%20DAL%20-%20Airport.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Nook Inc. Airport Counter",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/dodo-airlines/Nook%20Inc.%20Airport%20Counter.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Receiving a Visitor - Flight Information",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/dodo-airlines/Receiving%20a%20Visitor%20-%20Flight%20Information.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-kk-slider",
+            "name": "K.K. Slider",
+            "description": "A collection of K.K. Slider songs\u2014original versions of the beloved musician's diverse repertoire across all genres.",
+            "icon": "Music",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "title": "Agent K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Agent%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aloha K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Aloha%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Bubblegum K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Bubblegum%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Caf\u00e9 K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Caf%C3%A9%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Comrade K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Comrade%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "DJ K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/DJ%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Go K.K. Rider",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Go%20K.K.%20Rider.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Hypno K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Hypno%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Imperial K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Imperial%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Adventure",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Adventure.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Aria",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Aria.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Ballad",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Ballad.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Bashment",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Bashment.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Bazaar",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Bazaar.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Birthday",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Birthday.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Blues",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Blues.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Bossa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Bossa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Break",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Break.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Calypso",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Calypso.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Casbah",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Casbah.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Chorale",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Chorale.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Chorinho",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Chorinho.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Condor",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Condor.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Country",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Country.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Cruisin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Cruisin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. D&B",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20D%26B.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Dirge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Dirge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Disco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Disco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Dixie",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Dixie.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Dub",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Dub.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Faire",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Faire.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Flamenco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Flamenco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Folk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Folk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Fugue",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Fugue.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Fusion",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Fusion.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Groove",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Groove.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Gumbo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Gumbo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Hop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Hop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20House.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Island",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Island.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Jazz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Jazz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Jongara",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Jongara.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Khoomei",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Khoomei.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Lament",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Lament.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Love Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Love%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Lovers",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Lovers.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Lullaby",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Lullaby.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Mambo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Mambo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Marathon",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Marathon.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. March",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20March.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Mariachi (Se\u00f1or K.K.)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Mariachi%20%28Se%C3%B1or%20K.K.%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Metal",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Metal.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Milonga",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Milonga.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Moody",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Moody.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Oasis",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Oasis.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Parade",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Parade.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Polka",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Polka.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Ragtime",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Ragtime.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Rally",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Rally.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Reggae",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Reggae.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Robot Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Robot%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Rock",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Rock.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Rockabilly",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Rockabilly.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Safari",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Safari.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Salsa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Salsa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Samba",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Samba.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Ska",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Ska.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Slack-Key",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Slack-Key.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Sonata",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Sonata.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Soul",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Soul.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Steppe",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Steppe.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Stroll",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Stroll.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Swing",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Swing.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Tango",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Tango.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Technopop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Technopop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Waltz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Waltz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. Western",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20Western.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "K.K. \u00c9tude",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/K.K.%20%C3%89tude.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "King K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/King%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Lucky K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Lucky%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mr. K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Mr.%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue - K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Prologue%20-%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Rockin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Rockin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Soulful K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Soulful%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Space K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Space%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Surfin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider/Surfin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-kk-slider-aircheck",
+            "name": "K.K. Slider Aircheck",
+            "description": "Radio-style versions of K.K. Slider songs\u2014capturing the authentic radio broadcast experience with that distinctive aircheck sound.",
+            "icon": "Radio",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "title": "Aircheck - Agent K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Agent%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Aloha K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Aloha%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Animal City",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Animal%20City.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Bubblegum K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Bubblegum%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Caf\u00e9 K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Caf%C3%A9%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Chillwave",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Chillwave.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Comrade K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Comrade%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - DJ K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20DJ%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Drivin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Drivin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Farewell",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Farewell.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Forest Life",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Forest%20Life.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Go K.K. Rider",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Go%20K.K.%20Rider.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Hypno K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Hypno%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - I Love You",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20I%20Love%20You.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Imperial K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Imperial%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Adventure",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Adventure.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Aria",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Aria.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Ballad",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Ballad.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Bashment",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Bashment.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Bazaar",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Bazaar.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Birthday",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Birthday.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Blues",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Blues.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Bossa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Bossa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Break",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Break.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Calypso",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Calypso.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Casbah",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Casbah.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Chorale",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Chorale.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Chorinho",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Chorinho.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Condor",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Condor.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Country",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Country.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Cruisin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Cruisin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. D&B",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20D%26B.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Dirge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Dirge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Disco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Disco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Dixie",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Dixie.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Dub",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Dub.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Faire",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Faire.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Flamenco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Flamenco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Folk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Folk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Fugue",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Fugue.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Fusion",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Fusion.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Groove",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Groove.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Gumbo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Gumbo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Hop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Hop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20House.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Island",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Island.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Jazz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Jazz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Jongara",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Jongara.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Khoomei",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Khoomei.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Lament",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Lament.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Love Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Love%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Lovers",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Lovers.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Lullaby",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Lullaby.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Mambo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Mambo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Marathon",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Marathon.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. March",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20March.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Mariachi",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Mariachi.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Metal",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Metal.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Milonga",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Milonga.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Moody",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Moody.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Oasis",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Oasis.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Parade",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Parade.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Polka",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Polka.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Ragtime",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Ragtime.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Rally",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Rally.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Reggae",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Reggae.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Robot Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Robot%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Rock",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Rock.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Rockabilly",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Rockabilly.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Safari",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Safari.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Salsa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Salsa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Samba",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Samba.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Ska",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Ska.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Slack-Key",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Slack-Key.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Sonata",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Sonata.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Soul",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Soul.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Steppe",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Steppe.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Stroll",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Stroll.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Swing",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Swing.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Tango",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Tango.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Technopop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Technopop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Waltz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Waltz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. Western",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20Western.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - K.K. \u00c9tude",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20K.K.%20%C3%89tude.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - King K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20King%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Lucky K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Lucky%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Marine Song 2001",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Marine%20Song%202001.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Mountain Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Mountain%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Mr. K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Mr.%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - My Place",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20My%20Place.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Neapolitan",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Neapolitan.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Only Me",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Only%20Me.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Pondering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Pondering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Rockin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Rockin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Soulful K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Soulful%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Space K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Space%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Spring Blossoms",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Spring%20Blossoms.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Stale Cupcakes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Stale%20Cupcakes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Steep Hill",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Steep%20Hill.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Surfin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Surfin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - The K. Funk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20The%20K.%20Funk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - To the Edge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20To%20the%20Edge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Two Days Ago",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Two%20Days%20Ago.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Wandering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Wandering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Aircheck - Welcome Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/kk-slider-aircheck/Aircheck%20-%20Welcome%20Horizons.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-miscellaneous",
+            "name": "Miscellaneous",
+            "description": "Unique tracks including prologue music, character themes, special locations, and various game events that add character to your New Horizons experience.",
+            "icon": "Star",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "title": "Animal City",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Animal%20City.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Announcement by Isabelle",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Announcement%20by%20Isabelle.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Announcement by Tom Nook",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Announcement%20by%20Tom%20Nook.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Chillwave",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Chillwave.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Construction Fanfare",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Construction%20Fanfare.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Dream Realm",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Dream%20Realm.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Drivin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Drivin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Emergency Rescue Service (Resetti's Theme)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Emergency%20Rescue%20Service%20%28Resetti%27s%20Theme%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Farewell",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Farewell.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Forest Life",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Forest%20Life.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Harv's Island - Day",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Harv%27s%20Island%20-%20Day.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Harv's Island - Night",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Harv%27s%20Island%20-%20Night.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "I Got an Item!",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/I%20Got%20an%20Item%21.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "I Love You",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/I%20Love%20You.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Jolly Redd's Treasure Trawler",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Jolly%20Redd%27s%20Treasure%20Trawler.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Kapp'n - Sailing to the Island - Part A",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Kapp%27n%20-%20Sailing%20to%20the%20Island%20-%20Part%20A.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Katrina's Fortune Telling",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Katrina%27s%20Fortune%20Telling.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Marine Song 2001",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Marine%20Song%202001.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Miss - Invalid Song #1 (Wild WorldCity Folk Main Theme)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Miss%20-%20Invalid%20Song%20%231%20%28Wild%20WorldCity%20Folk%20Main%20Theme%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Miss - Invalid Song #2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Miss%20-%20Invalid%20Song%20%232.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Miss - Invalid Song #3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Miss%20-%20Invalid%20Song%20%233.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mountain Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mountain%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "My Place",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/My%20Place.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Day",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Day.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Day, Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Day%2C%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Day, Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Day%2C%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Night",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Night.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Night, Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Night%2C%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Mystery Island Tour - Night, Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Mystery%20Island%20Tour%20-%20Night%2C%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Neapolitan",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Neapolitan.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Horizons Main Theme",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/New%20Horizons%20Main%20Theme.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Horizons Main Theme - Live Performance",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/New%20Horizons%20Main%20Theme%20-%20Live%20Performance.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Only Me",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Only%20Me.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Pondering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Pondering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 1 - Choosing Tent Location",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%201%20-%20Choosing%20Tent%20Location.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 2 - Pitching More Tents",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%202%20-%20Pitching%20More%20Tents.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 3 - Gathering Supplies",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%203%20-%20Gathering%20Supplies.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 4 - Island-Warming Party",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%204%20-%20Island-Warming%20Party.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 5 - Living in a Tent",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%205%20-%20Living%20in%20a%20Tent.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 5 - Living in a Tent - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%205%20-%20Living%20in%20a%20Tent%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 5 - Living in a Tent - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%205%20-%20Living%20in%20a%20Tent%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 6 - Living in a House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%206%20-%20Living%20in%20a%20House.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 6 - Living in a House - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%206%20-%20Living%20in%20a%20House%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Prologue, Phase 6 - Living in a House - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Prologue%2C%20Phase%206%20-%20Living%20in%20a%20House%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Scanning an Amiibo (Nook Stop)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Scanning%20an%20Amiibo%20%28Nook%20Stop%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Spring Blossoms",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Spring%20Blossoms.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Stale Cupcakes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Stale%20Cupcakes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Steep Hill",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Steep%20Hill.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Stung by Bees",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Stung%20by%20Bees.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Anime",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Anime.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Cooking",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Cooking.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Drama",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Drama.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Music #1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Music%20%231.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Music #2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Music%20%232.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Talk Show",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Talk%20Show.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Variety Show",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Variety%20Show.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Weather Report - Cloudy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Weather%20Report%20-%20Cloudy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Weather Report - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Weather%20Report%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Weather Report - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Weather%20Report%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "TV Audio - Weather Report - Sunny",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/TV%20Audio%20-%20Weather%20Report%20-%20Sunny.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "The K. Funk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/The%20K.%20Funk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "To the Edge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/To%20the%20Edge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Two Days Ago",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Two%20Days%20Ago.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Wandering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Wandering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Welcome Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/miscellaneous/Welcome%20Horizons.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-music-box",
+            "name": "Music Box",
+            "description": "Instrumental music box versions of K.K. Slider songs\u2014delicate, tinkling melodies perfect for relaxation and ambient listening.",
+            "icon": "Music2",
+            "iconBg": "#e8f4fd",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "title": "Music Box - Agent K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Agent%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Aloha K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Aloha%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Animal City",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Animal%20City.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Bubblegum K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Bubblegum%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Caf\u00e9 K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Caf%C3%A9%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Chillwave",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Chillwave.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Comrade K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Comrade%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - DJ K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20DJ%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Drivin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Drivin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Farewell",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Farewell.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Forest Life",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Forest%20Life.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Go K.K. Rider",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Go%20K.K.%20Rider.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Hypno K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Hypno%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - I Love You",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20I%20Love%20You.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Imperial K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Imperial%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Adventure",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Adventure.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Aria",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Aria.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Ballad",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Ballad.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Bashment",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Bashment.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Bazaar",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Bazaar.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Birthday",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Birthday.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Blues",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Blues.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Bossa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Bossa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Break",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Break.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Calypso",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Calypso.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Casbah",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Casbah.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Chorale",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Chorale.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Chorinho",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Chorinho.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Condor",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Condor.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Country",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Country.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Cruisin'",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Cruisin%27.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. D&B",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20D%26B.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Dirge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Dirge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Disco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Disco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Dixie",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Dixie.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Dub",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Dub.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Faire",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Faire.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Flamenco",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Flamenco.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Folk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Folk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Fugue",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Fugue.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Fusion",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Fusion.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Groove",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Groove.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Gumbo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Gumbo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Hop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Hop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20House.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Island",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Island.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Jazz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Jazz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Jongara",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Jongara.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Khoomei",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Khoomei.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Lament",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Lament.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Love Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Love%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Lovers",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Lovers.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Lullaby",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Lullaby.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Mambo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Mambo.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Marathon",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Marathon.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. March",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20March.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Mariachi",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Mariachi.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Metal",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Metal.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Milonga",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Milonga.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Moody",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Moody.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Oasis",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Oasis.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Parade",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Parade.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Polka",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Polka.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Ragtime",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Ragtime.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Rally",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Rally.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Reggae",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Reggae.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Robot Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Robot%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Rock",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Rock.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Rockabilly",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Rockabilly.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Safari",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Safari.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Salsa",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Salsa.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Samba",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Samba.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Ska",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Ska.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Slack-Key",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Slack-Key.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Sonata",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Sonata.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Soul",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Soul.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Steppe",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Steppe.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Stroll",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Stroll.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Swing",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Swing.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Synth",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Synth.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Tango",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Tango.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Technopop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Technopop.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Waltz",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Waltz.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. Western",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20Western.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - K.K. \u00c9tude",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20K.K.%20%C3%89tude.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - King K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20King%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Lucky K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Lucky%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Marine Song 2001",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Marine%20Song%202001.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Mountain Song",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Mountain%20Song.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Mr. K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Mr.%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - My Place",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20My%20Place.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Neapolitan",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Neapolitan.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Only Me",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Only%20Me.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Pondering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Pondering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Rockin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Rockin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Soulful K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Soulful%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Space K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Space%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Spring Blossoms",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Spring%20Blossoms.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Stale Cupcakes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Stale%20Cupcakes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Steep Hill",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Steep%20Hill.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Surfin' K.K.",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Surfin%27%20K.K..mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - The K. Funk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20The%20K.%20Funk.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - To the Edge",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20To%20the%20Edge.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Two Days Ago",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Two%20Days%20Ago.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Wandering",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Wandering.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Music Box - Welcome Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/music-box/Music%20Box%20-%20Welcome%20Horizons.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-shops",
+            "name": "Shop Themes",
+            "description": "Cozy, nostalgic shop tunes from Animal Crossing: New Horizons\u2014gentle jingles and friendly chimes that make your day feel like a stroll through Nook's Cranny.",
+            "icon": "Store",
+            "iconBg": "#f4d47c",
+            "iconColor": "#8b6914",
+            "songs": [
+                {
+                    "title": "Able Sisters",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/shops/Able%20Sisters.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Nook's Cranny (Basic Version)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/shops/Nook%27s%20Cranny%20%28Basic%20Version%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Nook's Cranny (Upgraded Version)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/shops/Nook%27s%20Cranny%20%28Upgraded%20Version%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Nook's Cranny - Closing Time",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/shops/Nook%27s%20Cranny%20-%20Closing%20Time.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-events",
+            "name": "Special Events",
+            "description": "Festive music from holidays and special occasions throughout the year\u2014from Bunny Day to Toy Day, capturing the joy of seasonal celebrations.",
+            "icon": "Calendar",
+            "iconBg": "#f4d47c",
+            "iconColor": "#8b6914",
+            "songs": [
+                {
+                    "title": "Bunny Day",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Bunny%20Day.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Bunny Day - Zipper T. Bunny's Theme",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Bunny%20Day%20-%20Zipper%20T.%20Bunny%27s%20Theme.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Construction Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Construction%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Event (Bug-Off, Fishing Tourney)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Event%20%28Bug-Off%2C%20Fishing%20Tourney%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Festivale",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Festivale.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Festivale - Pav\u00e9's Theme",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Festivale%20-%20Pav%C3%A9%27s%20Theme.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Fireworks Show (Bonfire Night)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Fireworks%20Show%20%28Bonfire%20Night%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Group Stretching",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Group%20Stretching.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Halloween",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Halloween.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year Countdown - 1 Hour",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%20Countdown%20-%201%20Hour.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year Countdown - 10 Minutes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%20Countdown%20-%2010%20Minutes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year Countdown - 30 Minutes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%20Countdown%20-%2030%20Minutes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year Countdown - 5 Minutes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%20Countdown%20-%205%20Minutes.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year's Day",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%27s%20Day.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year's Day (2 AM-6 AM)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%27s%20Day%20%282%20AM-6%20AM%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "New Year's Party (12 AM-2 AM)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/New%20Year%27s%20Party%20%2812%20AM-2%20AM%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Timed Minigame (Treasure Hunt, Bug-Off Round, Etc.)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Timed%20Minigame%20%28Treasure%20Hunt%2C%20Bug-Off%20Round%2C%20Etc.%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Toy Day (Northern Hemisphere)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Toy%20Day%20%28Northern%20Hemisphere%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Toy Day (Southern Hemisphere)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Toy%20Day%20%28Southern%20Hemisphere%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                },
+                {
+                    "title": "Turkey Day (Franklin's Theme, Harvest Festival)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/playlists/events/Turkey%20Day%20%28Franklin%27s%20Theme%2C%20Harvest%20Festival%29.mp3",
+                    "subtitle": "Animal Crossing: New Horizons"
+                }
+            ]
+        }
+    ]
+}

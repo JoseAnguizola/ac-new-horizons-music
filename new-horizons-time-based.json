@@ -1,0 +1,541 @@
+{
+    "timeBasedSongs": [
+        {
+            "id": "new-horizons-clear",
+            "type": "clear",
+            "name": "Animal Crossing: New Horizons",
+            "description": "Nintendo Switch",
+            "icon": "Music",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "id": "nh-c-00",
+                    "hour": 0,
+                    "title": "12 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20AM%20%28Midnight%29.mp3"
+                },
+                {
+                    "id": "nh-c-01",
+                    "hour": 1,
+                    "title": "1 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-02",
+                    "hour": 2,
+                    "title": "2 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-03",
+                    "hour": 3,
+                    "title": "3 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-04",
+                    "hour": 4,
+                    "title": "4 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-05",
+                    "hour": 5,
+                    "title": "5 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-06",
+                    "hour": 6,
+                    "title": "6 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-07",
+                    "hour": 7,
+                    "title": "7 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-08",
+                    "hour": 8,
+                    "title": "8 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-09",
+                    "hour": 9,
+                    "title": "9 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-10",
+                    "hour": 10,
+                    "title": "10 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-11",
+                    "hour": 11,
+                    "title": "11 A.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20AM.mp3"
+                },
+                {
+                    "id": "nh-c-12",
+                    "hour": 12,
+                    "title": "12 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20PM%20%28Noon%29.mp3"
+                },
+                {
+                    "id": "nh-c-13",
+                    "hour": 13,
+                    "title": "1 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-14",
+                    "hour": 14,
+                    "title": "2 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-15",
+                    "hour": 15,
+                    "title": "3 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-16",
+                    "hour": 16,
+                    "title": "4 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-17",
+                    "hour": 17,
+                    "title": "5 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-18",
+                    "hour": 18,
+                    "title": "6 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-19",
+                    "hour": 19,
+                    "title": "7 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-20",
+                    "hour": 20,
+                    "title": "8 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-21",
+                    "hour": 21,
+                    "title": "9 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-22",
+                    "hour": 22,
+                    "title": "10 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20PM.mp3"
+                },
+                {
+                    "id": "nh-c-23",
+                    "hour": 23,
+                    "title": "11 P.M. (Clear)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20PM.mp3"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-rainy",
+            "type": "rainy",
+            "name": "Animal Crossing: New Horizons",
+            "description": "Nintendo Switch",
+            "icon": "Cloud",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "nh-r-00",
+                    "hour": 0,
+                    "title": "12 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20AM%20%28Midnight%29%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-01",
+                    "hour": 1,
+                    "title": "1 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-02",
+                    "hour": 2,
+                    "title": "2 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-03",
+                    "hour": 3,
+                    "title": "3 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-04",
+                    "hour": 4,
+                    "title": "4 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-05",
+                    "hour": 5,
+                    "title": "5 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-06",
+                    "hour": 6,
+                    "title": "6 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-07",
+                    "hour": 7,
+                    "title": "7 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-08",
+                    "hour": 8,
+                    "title": "8 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-09",
+                    "hour": 9,
+                    "title": "9 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-10",
+                    "hour": 10,
+                    "title": "10 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-11",
+                    "hour": 11,
+                    "title": "11 A.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-12",
+                    "hour": 12,
+                    "title": "12 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20PM%20%28Noon%29%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-13",
+                    "hour": 13,
+                    "title": "1 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-14",
+                    "hour": 14,
+                    "title": "2 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-15",
+                    "hour": 15,
+                    "title": "3 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-16",
+                    "hour": 16,
+                    "title": "4 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-17",
+                    "hour": 17,
+                    "title": "5 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-18",
+                    "hour": 18,
+                    "title": "6 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-19",
+                    "hour": 19,
+                    "title": "7 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-20",
+                    "hour": 20,
+                    "title": "8 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-21",
+                    "hour": 21,
+                    "title": "9 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-22",
+                    "hour": 22,
+                    "title": "10 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nh-r-23",
+                    "hour": 23,
+                    "title": "11 P.M. (Rainy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20PM%20-%20Rainy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons-snowy",
+            "type": "snowy",
+            "name": "Animal Crossing: New Horizons",
+            "description": "Nintendo Switch",
+            "icon": "Snow",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "nh-s-00",
+                    "hour": 0,
+                    "title": "12 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20AM%20%28Midnight%29%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-01",
+                    "hour": 1,
+                    "title": "1 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-02",
+                    "hour": 2,
+                    "title": "2 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-03",
+                    "hour": 3,
+                    "title": "3 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-04",
+                    "hour": 4,
+                    "title": "4 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-05",
+                    "hour": 5,
+                    "title": "5 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-06",
+                    "hour": 6,
+                    "title": "6 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-07",
+                    "hour": 7,
+                    "title": "7 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-08",
+                    "hour": 8,
+                    "title": "8 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-09",
+                    "hour": 9,
+                    "title": "9 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-10",
+                    "hour": 10,
+                    "title": "10 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-11",
+                    "hour": 11,
+                    "title": "11 A.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-12",
+                    "hour": 12,
+                    "title": "12 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/12%20PM%20%28Noon%29%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-13",
+                    "hour": 13,
+                    "title": "1 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/1%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-14",
+                    "hour": 14,
+                    "title": "2 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/2%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-15",
+                    "hour": 15,
+                    "title": "3 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/3%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-16",
+                    "hour": 16,
+                    "title": "4 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/4%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-17",
+                    "hour": 17,
+                    "title": "5 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/5%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-18",
+                    "hour": 18,
+                    "title": "6 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/6%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-19",
+                    "hour": 19,
+                    "title": "7 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/7%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-20",
+                    "hour": 20,
+                    "title": "8 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/8%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-21",
+                    "hour": 21,
+                    "title": "9 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/9%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-22",
+                    "hour": 22,
+                    "title": "10 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/10%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nh-s-23",
+                    "hour": 23,
+                    "title": "11 P.M. (Snowy)",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-horizons-music@main/time-based-songs/11%20PM%20-%20Snowy.mp3"
+                }
+            ]
+        }
+    ]
+}
